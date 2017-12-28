@@ -11,17 +11,27 @@ var app = express();
 //   next();
 // });
 
+hbs.registerPartials(__dirname + '/views/partials');
 app.set('view engine', 'hbs');
 
 app.use(express.static(__dirname + '/public'));
 
 app.get('/', function (req, res) {
   // res.send('<h1>Home Page</h1>');
-  res.render('home.hbs');
+
+  res.render('home.hbs',{
+    message: 'Node.js Training',
+    pageTitle: 'JBLFMU Home Page',
+    currentDate: new Date().toDateString(),
+    currentYear: new Date().getFullYear()
+  });
+
 })
 
 app.get('/about', function (req, res) {
-  res.send('About page');
+  res.render('about.hbs',{
+    pageTitle: 'About Page'
+  });
 })
 
 
