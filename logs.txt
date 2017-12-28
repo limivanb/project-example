@@ -1,0 +1,21 @@
+December 28, 2017 14:51:2
+CPU: Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz
+IP: 172.16.6.195
+December 28, 2017 14:51:40
+CPU: Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz
+IP: 172.16.6.195
+December 28, 2017 14:51:54
+CPU: Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz
+IP: 172.16.6.195
+December 28, 2017 14:52:13
+CPU: Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz
+IP: 172.16.6.195
+December 28, 2017 14:52:20
+CPU: Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz
+IP: 172.16.6.195
+December 28, 2017 14:52:40
+CPU: Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz
+IP: 172.16.6.195
+December 28, 2017 14:52:49
+CPU: Intel(R) Core(TM) i5-3427U CPU @ 1.80GHz
+IP: 172.16.6.195
